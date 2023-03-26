@@ -12,7 +12,7 @@
 
 </head>
 
-<body onload="carregar"> 
+<body> 
     <header class="cabecalho">
         
           
@@ -58,7 +58,7 @@
 
 
     <footer> <img src="_imagens/favicon2-32x32.png" alt="favicon-32x32"> produzido por odurreug@terra.com.br</footer>
-    <script>
+    <script >
         function carregar (parameter) { var msg= window.document.getElementById ('msg')
         var img = window.document.getElementById ('imagem')
         var data = new Date ()
@@ -72,9 +72,10 @@
             
         if  (hora > 18 && hora <=24)'${hora} horas, boa noite'
          {img.src= '_imagens/interior2bar.jpg'}
-            
+        
         }
-    </script>
+         </script>
+    
 </body>
 
 </html>
