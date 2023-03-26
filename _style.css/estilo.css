@@ -32,7 +32,7 @@ picture#qr {display: block; margin-top: 400px;   margin-right:auto; margin-botto
 picture#qr.figcaption { display: block; margin-top: 0px;  font-family:var(--fonte1); font-size: 30px;color: rgb(65, 53, 230);}
 
 
-#corpo {display: block; position: left; margin-top: 200px; width: 650px; height: 1200px; float:left; margin: 2px;  background-image:url(../_imagens/interirbar.jpg);background-repeat: no-repeat; background-size: contain;   }
+#corpo {display: block; position: left; margin-top: 200px; width: 650px; height: 1200px; float:left; margin: 2px;   }
    h1 {  width: 600px; text-align:center;  font-family: var(--fonte3); font-size: 60px; color: rgb(123, 255, 0); margin-top:  2px;margin-bottom: 2px;   border: 0px; padding: 3px;}
  h2 { text-align: center;  font-family: var(--fonte1); font-size: 30px; color: rgb(0, 255, 149); padding: 2px ; border: 10px; margin: top 50px; margin-right: auto; margin-bottom: 5px; margin-left: 10px;  }
  h3 {text-align: center;font-family: var(--fonte1);font-size: 30px; color: rgb(250, 6, 6) ; margin-top: 20px;}
